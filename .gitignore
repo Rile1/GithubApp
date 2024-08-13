@@ -1,0 +1,17 @@
+# Node modules
+DataViewerApp/node_modules/
+
+# Build outputs
+DataViewerApp/dist/
+MicrosoftDataApi/bin/
+MicrosoftDataApi/obj/
+
+# Environment files
+.env
+
+# IDE specific files
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates

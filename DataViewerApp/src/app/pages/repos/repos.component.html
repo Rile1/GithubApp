@@ -1,0 +1,47 @@
+<div class="page-container">
+
+    <div class="heading">
+
+        <div class="heading-title">Git repositories</div>
+
+        <button class="heading-button" [disabled]="saving" (click)="storeRepositories()">Store repositories</button>
+
+    </div>
+
+    <div class="repos-parent">
+        <div class="content-box" *ngFor="let repo of repositories; let i = index">
+
+            <div class="bold mb">{{repo.name}}</div>
+
+            <div class="mb-35">{{repo.htmlUrl}}</div>
+
+            <div class="mb">Description:</div>
+
+            <div *ngIf="i != editingIndex">
+
+                <div class="mb">{{repo.description && repo.description != "" ? repo.description : "None"}}</div>
+
+                <div class="edit-footer">
+                    <button class="edit-button" [disabled]="saving" (click)="editDescription(i)">Edit</button>
+                </div>
+
+            </div>
+
+            <div *ngIf="i == editingIndex">
+
+                <input class="description-input mb" [(ngModel)]="newDescription">
+
+                <div class="edit-footer">
+
+                    <button class="edit-button me-10" [disabled]="saving" (click)="saveDescription()">Save</button>
+
+                    <button class="edit-button" [disabled]="saving" (click)="cancelEditDescription()">Cancel</button>
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+</div>

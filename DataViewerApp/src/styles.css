@@ -1,0 +1,19 @@
+html, body {
+    margin: 0;
+}
+
+.content-box {
+    padding: 20px;
+    border: 1px solid #333;
+    border-radius: 10px;
+    background-color: #dadada;
+}
+
+.label {
+    color: #333;
+    font-size: 18px;
+}
+
+button {
+    cursor: pointer;
+}

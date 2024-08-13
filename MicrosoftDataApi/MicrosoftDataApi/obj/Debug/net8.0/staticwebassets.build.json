@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6RMq0oycms3ErWnCigCQvyq/bw9rOJsLFL4z7/WBYtw=",
+  "Source": "MicrosoftDataApi",
+  "BasePath": "_content/MicrosoftDataApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
