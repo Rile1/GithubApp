@@ -3,6 +3,7 @@ DataViewerApp/node_modules/
 
 # Build outputs
 DataViewerApp/dist/
+DataViewerApp/angular/
 MicrosoftDataApi/MicrosoftDataApi/bin/
 MicrosoftDataApi/MicrosoftDataApi/obj/
 
