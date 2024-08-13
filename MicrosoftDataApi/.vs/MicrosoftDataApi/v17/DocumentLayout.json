@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "MicrosoftDataApi\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Stuff\\wspaceP\\taskProject\\MicrosoftDataApi\\MicrosoftDataApi\\Program.cs",
               "RelativeToolTip": "MicrosoftDataApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAkAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-11T22:58:49.703Z",
               "IsPinned": true,
@@ -65,8 +65,7 @@
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-11T23:01:16.008Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-11T23:04:14.446Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T06:18:05.115Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "MicrosoftDataApi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-13T06:41:08.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T06:41:08.006Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "MicrosoftDataApi\\Models\\GitHubRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T06:06:31.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T06:06:31.357Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "MicrosoftDataApi\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-13T06:06:25.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T06:06:25.465Z"
             }
           ]
         }

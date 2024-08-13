@@ -3,8 +3,8 @@ DataViewerApp/node_modules/
 
 # Build outputs
 DataViewerApp/dist/
-MicrosoftDataApi/bin/
-MicrosoftDataApi/obj/
+MicrosoftDataApi/MicrosoftDataApi/bin/
+MicrosoftDataApi/MicrosoftDataApi/obj/
 
 # Environment files
 .env
